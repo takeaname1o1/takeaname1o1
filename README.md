@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Jiten Kumar Shah
 
-<!--
-**takeaname1o1/takeaname1o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in CSE @ NIT Silchar | 👨‍💻 Blockchain & NLP Enthusiast  
+📍 Assam, India | 📧 jitenkug22@cse.nits.ac.in  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+- 🚀 **Blockchain-based QR Reward System** – Decentralized micro-reward platform  
+- 🎲 [Math Game](https://github.com/takeaname1o1/math-game) – iOS logic puzzle game  
+- 🔄 [PointRotator3D](https://github.com/takeaname1o1/PointRotator3D) – Visualize 3D rotations
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Python, C++, Solidity, Bash  
+- **Frameworks**: React, Streamlit, Web3.js, TensorFlow, Scikit-learn  
+- **Tools**: Git, Docker, MetaMask, IPFS, Remix IDE  
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/jiten-shah-72ab54202)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode)](https://leetcode.com/ALPST0NE/)
