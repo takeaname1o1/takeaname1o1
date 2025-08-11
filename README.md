@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Jiten Kumar Shah
 
 🎓 B.Tech in CSE @ NIT Silchar 
-📍 Assam, India | 📧 [jitenkug22@cse.nits.ac.in](mailto:jitenkug22@cse.nits.ac.in)
+📍 Assam, India | 📧 [jitenkug22@cse.nits.ac.in](mailto:jitenk_ug_22@cse.nits.ac.in)
 
 ---
 
