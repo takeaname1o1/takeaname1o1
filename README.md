@@ -28,7 +28,7 @@
 
 ### 💻 Languages & Technologies
 
-Swift | C++ | Dart | Shell  | NLP | iOS Development | Flutter
+Python |  C++ | Swift | Dart | Shell  | NLP | iOS Development | Flutter
 
 ---
 
