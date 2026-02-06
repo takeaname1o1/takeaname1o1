@@ -66,6 +66,8 @@ B.Tech in Computer Science and Engineering (2022 – Present)
 
 ---
 
-### 📈 GitHub Stats
+
+## 📈 GitHub Stats
 
 ![Jiten's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeaname1o1&show_icons=true&theme=radical)
+
